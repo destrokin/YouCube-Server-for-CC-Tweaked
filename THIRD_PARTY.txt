@@ -1,0 +1,32 @@
+THIRD-PARTY SOFTWARE AND LICENSE NOTICE
+======================================
+
+YouCube / CC-YouCube server
+    Project: https://github.com/CC-YouCube/server
+    License: GPL-3.0
+
+Sanjuuni
+    Project: https://github.com/MCJack123/sanjuuni
+    License information is provided by the upstream project.
+
+FFmpeg
+    Project: https://ffmpeg.org/
+    License information:
+        https://ffmpeg.org/legal.html
+
+yt-dlp
+    Project: https://github.com/yt-dlp/yt-dlp
+
+Sanic
+    Project: https://github.com/sanic-org/sanic
+
+Spotipy
+    Project: https://github.com/spotipy-dev/spotipy
+
+IMPORTANT FOR DISTRIBUTORS
+--------------------------
+This public package contains modified source derived from the YouCube server.
+Review and comply with the GPL-3.0 terms before redistribution.
+
+This ZIP intentionally does not bundle FFmpeg or Sanjuuni binaries.
+The setup process obtains or locates them separately.

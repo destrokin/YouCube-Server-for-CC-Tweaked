@@ -1,0 +1,4 @@
+sanic>=23.12,<26
+yt-dlp
+spotipy
+orjson
