@@ -1,13 +1,20 @@
 # YouCube-Server-for-CC-Tweaked
 
 This is a one click installer for hosting your own youcube server.
+
 Simply Extract the zip file
+
 Run "Setup_Server.bat"
+
 Wait till its installed
+
 Then launcher the .exe
 
 If on a lan server use your ipv4 displayed in top left of .exe
+
 If on a Public server use your Ipv6 which can be found here https://www.whatismyip.com/
+
+
 
 This is what the exe looks like
 
